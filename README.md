@@ -1,8 +1,27 @@
 <p align='center'>
+  <img width="150" align='center' src="Extra/PicofMe.png">
+</p>
+
+<br>
+</br>
+<p align='center'>
 Hello! This is a quick intro about me.
 </p>
 
 ---
+
+</br>
+
+## Contact me
+---
+<p align='center'>
+<a href="https://www.linkedin.com/in/jonathan-brito24/"><img height="30" src="Extra/linkedin.jpg"></a>
+<a href="britoj2@tcnj.edu"><img height="30" src="Extra/gmail.png"></a>
+</p>
+<p align='center'>
+Feel free to message me on Linkedin or send me an email!
+</p>
+
 </br>
 
 ## Education
@@ -28,17 +47,6 @@ Hello! This is a quick intro about me.
 - My favorite soccer team is Real Madrid. :soccer:
 - My favorite basketball team is the Denver Nuggets. :basketball:
 
-</br>
-
-## Contact me
----
-<p align='center'>
-<a href="https://www.linkedin.com/in/jonathan-brito24/"><img height="30" src="Extra/linkedin.jpg"></a>
-<a href="britoj2@tcnj.edu"><img height="30" src="Extra/gmail.png"></a>
-</p>
-<p align='center'>
-Feel free to message me on Linkedin or send me an email!
-</p>
 
 </br>
 
